@@ -1,6 +1,6 @@
-# Mumbai Swap - Skill & Goods Bartering Platform
+# SwapSeva - Skill & Goods Bartering Platform
 
-Mumbai Swap is a platform that enables users to barter skills and goods with each other. For example, if you know how to play carrom and want to learn chess, you can find someone who knows chess and wants to learn carrom, and you can exchange your skills.
+SwapSeva is a platform that enables users to barter skills and goods with each other. For example, if you know how to play carrom and want to learn chess, you can find someone who knows chess and wants to learn carrom, and you can exchange your skills.
 
 ## Features
 
